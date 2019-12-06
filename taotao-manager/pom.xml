@@ -12,13 +12,13 @@
     <groupId>com.taotao</groupId>
     <artifactId>taotao-manager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <modules>
         <module>taotao-manager-pojo</module>
         <module>taotao-manager-service</module>
         <module>taotao-manager-web</module>
         <module>taotao-manager-dao</module>
     </modules>
-    <packaging>pom</packaging>
 
 
 <dependencies>
